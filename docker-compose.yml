@@ -1,0 +1,13 @@
+# Version de la syntaxe Docker Compose
+version: '3.8'
+services:
+  api:
+    build: .
+    container_name: sentiment_api_container
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./app:/code/app
+      - ./models:/code/models
+      - ./data/processed:/code/data/processed
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload

@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+scikit-learn
+joblib
+pandas
+nltk
+lightgbm
+pydantic-settings
+requests  
+tqdm      
+kaggle
+pyarrow
