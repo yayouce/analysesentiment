@@ -11,8 +11,6 @@ venv/
 
 
 /data/raw/*
-/data/processed/*
-/models/*
 
 
 .idea/
