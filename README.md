@@ -1,6 +1,13 @@
 Un projet complet de Machine Learning démontrant le cycle de vie de bout en bout : de l'analyse exploratoire et l'entraînement d'un modèle sur le dataset Yelp à son déploiement en production via une **API RESTful performante, documentée et conteneurisée**.
 
-Ce projet a été conçu pour simuler un cas d'usage réel d'entreprise : fournir un service de Machine Learning capable de classifier le sentiment d'un texte en temps réel. Il met en évidence les compétences clés en **Data Science**, **Machine Learning Engineering** et **MLOps**.
+Ce projet simule un cas d'usage à forte valeur ajoutée pour toute plateforme d'e-commerce ou e-agence. En analysant automatiquement des milliers d'avis clients, de commentaires sur les réseaux sociaux ou de retours produits, cette API permet de transformer le feedback textuel non structuré en indicateurs de performance exploitables. Elle offre la capacité de :
+
+- **Détection précoce des risques de résiliation** en identifiant les clients exprimant une insatisfaction, même faible
+- **Prioriser les actions du service client en identifiant instantanément les clients les plus mécontents**.
+- **Détecter en temps réel les problèmes sur un produit ou un service** (bugs, défauts de livraison, etc.).
+- **Mesurer l'impact d'une campagne marketing** en suivant l'évolution du sentiment général.
+- Analyser la concurrence en appliquant le même modèle à leurs avis publics.
+Il met en évidence mes compétences en Data Science, Machine Learning Engineering et MLOps pour construire des solutions qui répondent directement aux enjeux de la satisfaction client et de l'e-réputation.
 
 ###  Fonctionnalités Clés
 
