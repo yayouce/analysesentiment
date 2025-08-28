@@ -1,3 +1,8 @@
+
+
+
+**LIEN de la video youtube de simulation https://youtu.be/POzeAJT6BcQ**
+
 Un projet complet de Machine Learning démontrant le cycle de vie de bout en bout : de l'analyse exploratoire et l'entraînement d'un modèle sur le dataset Yelp à son déploiement en production via une **API RESTful performante, documentée et conteneurisée**.
 
 Ce projet simule un cas d'usage à forte valeur ajoutée pour toute plateforme d'e-commerce ou e-agence. En analysant automatiquement des milliers d'avis clients, de commentaires sur les réseaux sociaux ou de retours produits, cette API permet de transformer le feedback textuel non structuré en indicateurs de performance exploitables. Elle offre la capacité de :
@@ -56,3 +61,4 @@ Il met en évidence mes compétences en Data Science, Machine Learning Engineeri
     *   **Documentation Alternative (ReDoc) :** [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
 ---
+
